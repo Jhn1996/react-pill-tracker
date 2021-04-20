@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-pill-tracker/static/css/main.9fe05d00.chunk.css",
-    "main.js": "/react-pill-tracker/static/js/main.ed0ff290.chunk.js",
-    "main.js.map": "/react-pill-tracker/static/js/main.ed0ff290.chunk.js.map",
-    "runtime-main.js": "/react-pill-tracker/static/js/runtime-main.4fe68c52.js",
-    "runtime-main.js.map": "/react-pill-tracker/static/js/runtime-main.4fe68c52.js.map",
-    "static/js/2.45a7363c.chunk.js": "/react-pill-tracker/static/js/2.45a7363c.chunk.js",
-    "static/js/2.45a7363c.chunk.js.map": "/react-pill-tracker/static/js/2.45a7363c.chunk.js.map",
-    "static/js/3.02d63851.chunk.js": "/react-pill-tracker/static/js/3.02d63851.chunk.js",
-    "static/js/3.02d63851.chunk.js.map": "/react-pill-tracker/static/js/3.02d63851.chunk.js.map",
+    "main.css": "/react-pill-tracker/static/css/main.b70c70e9.chunk.css",
+    "main.js": "/react-pill-tracker/static/js/main.f8a5d984.chunk.js",
+    "main.js.map": "/react-pill-tracker/static/js/main.f8a5d984.chunk.js.map",
+    "runtime-main.js": "/react-pill-tracker/static/js/runtime-main.6cd1b5f2.js",
+    "runtime-main.js.map": "/react-pill-tracker/static/js/runtime-main.6cd1b5f2.js.map",
+    "static/js/2.2f0c03d8.chunk.js": "/react-pill-tracker/static/js/2.2f0c03d8.chunk.js",
+    "static/js/2.2f0c03d8.chunk.js.map": "/react-pill-tracker/static/js/2.2f0c03d8.chunk.js.map",
+    "static/js/3.ae8d71ad.chunk.js": "/react-pill-tracker/static/js/3.ae8d71ad.chunk.js",
+    "static/js/3.ae8d71ad.chunk.js.map": "/react-pill-tracker/static/js/3.ae8d71ad.chunk.js.map",
     "index.html": "/react-pill-tracker/index.html",
-    "static/css/main.9fe05d00.chunk.css.map": "/react-pill-tracker/static/css/main.9fe05d00.chunk.css.map",
-    "static/js/2.45a7363c.chunk.js.LICENSE.txt": "/react-pill-tracker/static/js/2.45a7363c.chunk.js.LICENSE.txt"
+    "static/css/main.b70c70e9.chunk.css.map": "/react-pill-tracker/static/css/main.b70c70e9.chunk.css.map",
+    "static/js/2.2f0c03d8.chunk.js.LICENSE.txt": "/react-pill-tracker/static/js/2.2f0c03d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fe68c52.js",
-    "static/js/2.45a7363c.chunk.js",
-    "static/css/main.9fe05d00.chunk.css",
-    "static/js/main.ed0ff290.chunk.js"
+    "static/js/runtime-main.6cd1b5f2.js",
+    "static/js/2.2f0c03d8.chunk.js",
+    "static/css/main.b70c70e9.chunk.css",
+    "static/js/main.f8a5d984.chunk.js"
   ]
 }
